@@ -1,4 +1,4 @@
-# 👨‍💻 Ruan Rodrigues
+# 👨‍💻 André Alves
 
 ## 💻 Software Developer
 
@@ -33,8 +33,8 @@ With solid skills in efficient communication, problem solving and teamwork, I am
 
 ## 📊 Statistics
 
-![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreAllves&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreAllves&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanrodrigues20&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreAllves&layout=compact&theme=tokyonight)
 
 ---
